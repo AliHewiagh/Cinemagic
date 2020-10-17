@@ -6,7 +6,8 @@
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="200" height="350">
+<img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="200" height="380">
+<img src="https://user-images.githubusercontent.com/28106385/96354699-171d2d80-110c-11eb-9c8f-57ac719de3cb.png" width="200" height="380">
 
 
 ## Requirements
