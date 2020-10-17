@@ -12,37 +12,28 @@
 
 ## Requirements
 
-- iOS 8.0+
-- Xcode 7.3
+- iOS 14.0+
+- Swift 4
 
-## Installation
+## Getting Started
 
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
-
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
-
-To get the full benefits import `YourLibrary` wherever you import UIKit
-
-``` swift
-import UIKit
-import YourLibrary
-```
-
-#### Manually
-1. Download and drop ```YourLibrary.swift``` in your project.  
-2. Congratulations!  
+1. Download the latest Xcode
+2. Clone this repository
+3. Install [Cocoapods](https://cocoapods.org)
+4. Open Cinemagic.xcworkspace in Xcode
 
 
-#### Technology/Tools
+#### Third Party Libraries
+
+1. SnapKit
+2. Layoutless
+3. RxSwift
+4. RxCocoa
+5. SwiftyJSON
+6. RxTest
 
 ## LICENSE
 This project is licensed under [ISC](https://opensource.org/licenses/ISC) license.
-
 
 ## Author
 
