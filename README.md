@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![](Images/1.png) 
+![](Images/1.png =250x250) 
 
 
 
