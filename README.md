@@ -6,8 +6,7 @@
 
 ## Screenshots
 
-![](Images/1.png){:height="300px" width="100px"} 
-
+<img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="30" height="30">
 
 
 ## Requirements
@@ -36,5 +35,6 @@
 This project is licensed under [ISC](https://opensource.org/licenses/ISC) license.
 
 ## Author
+
 
 <a href="https://linkedin.com/in/alihewiagh37" target="_blank">Ali Algmaty</a> – alihewaigh@gmail.com
