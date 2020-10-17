@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![](images/1.png) 
+![](Images/1.png) 
 
 
 
