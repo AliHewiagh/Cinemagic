@@ -8,7 +8,7 @@
 
 | Movies List  | Movie Details  | Booking (Web-View)   |
 | ------------- | ------------- | ------- |
-| <img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="220" height="400">  | Content Cell  |  <img src="https://user-images.githubusercontent.com/28106385/96354741-8004a580-110c-11eb-9193-e40bea24eee8.png" width="220" height="400">  |
+| <img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="220" height="400">|<img src="https://user-images.githubusercontent.com/28106385/96354741-8004a580-110c-11eb-9193-e40bea24eee8.png" width="220" height="400">  |
 <img src="https://user-images.githubusercontent.com/28106385/96354699-171d2d80-110c-11eb-9c8f-57ac719de3cb.png" width="220" height="400"> |
 
 
