@@ -60,7 +60,7 @@ class MoviesListViewController: UICollectionViewController {
     
     @objc func reloadMoviesList(_: Any) {
         self.pageNumber = 1
-        self.moviesListViewModel.requestMoviesList(pageNumber: String(self.pageNumber), isRefresh: false)
+        self.moviesListViewModel.requestMoviesList(pageNumber: String(self.pageNumber), isRefresh: true)
     }
     
     func setupCollectionViewWithBinding() {
