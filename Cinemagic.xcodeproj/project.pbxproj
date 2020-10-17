@@ -236,8 +236,7 @@
 				4A6486EC2538667C00C175C1 /* ActivityIndicator.swift */,
 				4A6486F1253867F900C175C1 /* MessageBanner.swift */,
 			);
-			name = Views;
-			path = ../Views;
+			path = Views;
 			sourceTree = "<group>";
 		};
 		4A9C1AF92535CBAF0079BEC0 /* Services */ = {
