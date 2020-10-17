@@ -2,7 +2,7 @@
 
 > Cinemagic is an iPhone app for discovering movies easily. The app displays movies list in the first screen. Clicking on one of the movies in the list, redirect you to the movie details. 
 
-Cinemagic  uses MVVM design pattern and Dependency Injection.  The TMDb API is used as data source. 
+> Cinemagic  uses MVVM design pattern and Dependency Injection.  The TMDb API is used as data source. 
 
 ## Screenshots
 
