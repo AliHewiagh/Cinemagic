@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![](Images/1.png =250x250) 
+![](Images/1.png){:height="300px" width="100px"} 
 
 
 
