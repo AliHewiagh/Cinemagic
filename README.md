@@ -6,6 +6,11 @@
 
 ## Screenshots
 
+| First Header  | Second Header | Third   |
+| ------------- | ------------- | ------- |
+| Content Cell  | Content Cell  |         |
+| Content Cell  | Content Cell  |         |
+
 Movies List               |  Movie Details             |  Booking (Web-View)
 :-------------------------:|:-------------------------::-------------------------:
 <img src="https://user-images.githubusercontent.com/28106385/96354666-b4c42d00-110b-11eb-8659-87adc86ced5b.png" width="220" height="400">  |  
